@@ -1,5 +1,5 @@
 ---
-manufacturer: 
+ma vbnufacturer: 
     - lenovo
 
 ---
